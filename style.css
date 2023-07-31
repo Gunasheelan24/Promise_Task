@@ -1,0 +1,16 @@
+.Character-name{
+    font-weight: 900;
+    font-style: italic;
+    font-weight: 30px;
+}
+#image { 
+   width: 40px;
+   margin: 0 !important;
+}
+a { 
+    text-decoration: none !important;
+    color: black !important;
+}
+a:hover { 
+    color: white !important;
+}
