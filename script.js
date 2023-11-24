@@ -1,3 +1,4 @@
+//TASK
 async function ApiCall() { 
     let ReciveData = await fetch("https://animechan.xyz/api/random");
     let AllData = await ReciveData.json();
